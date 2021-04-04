@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  kube-opex-analytics:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-04-04T18:40:45.573075+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 28bc23b660ac17e5521b040fb90750c7947fb2cbc7b0abfedf0225879ed2a023
+    name: kube-opex-analytics
+    type: application
+    urls:
+    - https://mattiaperi.github.io/helm-chart/kube-opex-analytics-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-04-04T18:40:45.569712+05:30"
